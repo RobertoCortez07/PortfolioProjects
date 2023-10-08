@@ -1,6 +1,6 @@
 /*
 
-Cleaning Data in SQL Queries using Data Grip IDE
+Cleaning Data using SQL Queries
 
 */
 
