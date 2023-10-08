@@ -1,3 +1,5 @@
+-- Exploring COVID data by country using SQL queries 
+
 --Selecting the data we will be using
 SELECT Location, date, total_cases, new_cases, total_deaths, population
 FROM CovidPortfolioProject..CovidDeaths$
