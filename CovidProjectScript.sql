@@ -3,6 +3,11 @@ Covid 19 Data Exploration. Primarily focusing on the United States but contains 
 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
+
+If you would like to see a Tableau visualization of this data
+
+https://public.tableau.com/views/COVID-19DataAnalysisDashboard_16968142802930/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 */
 
 Select *
